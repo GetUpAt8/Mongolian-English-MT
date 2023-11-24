@@ -22,4 +22,11 @@ We used the Mongolian data, cleaned it, and filtered sentences with a length no 
 |--------|--------|--------|-------|
 | Amount | 690,138| 10,000 | 10,000|
 
+## Model performance
+
+|        | Valid  | Test  |
+|--------|--------|-------|
+| BLEU   | 34.43  | 31.06 |
+
+
 Feel free to explore the model and provide feedback.
